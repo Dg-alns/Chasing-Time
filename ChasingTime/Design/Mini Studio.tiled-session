@@ -1,0 +1,184 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "Tous les Fichiers (*)",
+    "fileStates": {
+        "#Fond lvl1": {
+            "scaleInDock": 1
+        },
+        ":/automap-tiles.tsx": {
+            "scaleInDock": 1
+        },
+        "Animation marche taille.tsx": {
+            "scaleInDock": 1
+        },
+        "Animation marche.tsx": {
+            "scaleInDock": 1
+        },
+        "Asset lvl 2 platform.tsx": {
+            "scaleInEditor": 1
+        },
+        "Asset lvl 2.tsx": {
+            "scaleInEditor": 1
+        },
+        "Asset lvl 2arme.tsx": {
+            "scaleInEditor": 1
+        },
+        "Asset lvl 2bloc.tsx": {
+            "scaleInEditor": 1
+        },
+        "Asset lvl 2caisse.tsx": {
+            "scaleInEditor": 1
+        },
+        "Asset lvl 2deco.tsx": {
+            "scaleInEditor": 1
+        },
+        "Fond lvl1.tsx": {
+            "scaleInDock": 1
+        },
+        "Fond lvl1test.tsx": {
+            "scaleInDock": 1
+        },
+        "Owlet_Monster_Push_6.tsx": {
+            "scaleInDock": 1
+        },
+        "fgsf.tmx": {
+            "scale": 0.25,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 3054,
+                "y": 864
+            }
+        },
+        "fgsf.tmx#Fond lvl1": {
+            "scaleInDock": 1
+        },
+        "hero_01_red_m_walk.tsx": {
+            "scaleInDock": 1
+        },
+        "map1.tmx": {
+            "expandedObjectLayers": [
+                6
+            ],
+            "scale": 2,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 5297.25,
+                "y": 531.5
+            }
+        },
+        "map1.tmx#Fond lvl1": {
+            "scaleInDock": 1
+        },
+        "map2.tmx": {
+            "expandedObjectLayers": [
+                5
+            ],
+            "scale": 1.5,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 5352.333333333333,
+                "y": 512.6666666666666
+            }
+        },
+        "map3.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 5913.636363636364,
+                "y": 772.7272727272727
+            }
+        },
+        "map4.tmx": {
+            "scale": 0.25844618055555557,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2880.6771235683336,
+                "y": 352.10425553353707
+            }
+        },
+        "map4.tmx#\"ecz": {
+            "scaleInDock": 1
+        },
+        "map4.tmx#Fond lvl1": {
+            "scaleInDock": 1
+        },
+        "map4.tmx#test": {
+            "scaleInDock": 1
+        },
+        "map4.tmx#transparant": {
+            "scaleInDock": 1
+        },
+        "maptest.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1774.2424242424242,
+                "y": 678.7878787878788
+            }
+        },
+        "maptest.tmx#\"ecz": {
+            "scaleInDock": 1
+        },
+        "maptest.tmx#Fond lvl1": {
+            "scaleInDock": 1
+        },
+        "maptest.tmx#test": {
+            "scaleInDock": 1
+        },
+        "maptest.tmx#transparant": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "pnj 1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "pnj.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "pnj1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "zad.tmx": {
+            "expandedObjectLayers": [
+                8
+            ],
+            "scale": 0.5,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 6489,
+                "y": 634
+            }
+        }
+    },
+    "last.imagePath": "C:/Users/d69al/OneDrive/Bureau/GC/Mini Studio/MAP/Design",
+    "map.height": 22,
+    "map.lastUsedFormat": "tmx",
+    "map.width": 224,
+    "openFiles": [
+    ],
+    "project": "Mini Studio.tiled-project",
+    "recentFiles": [
+        "zad.tmx",
+        "fgsf.tmx",
+        "map1.tmx",
+        "map2.tmx",
+        "pnj 1.tsx",
+        "map3.tmx",
+        "Asset lvl 2caisse.tsx",
+        "Asset lvl 2arme.tsx",
+        "pnj.tsx",
+        "pnj1.tsx",
+        "Asset lvl 2deco.tsx",
+        "Asset lvl 2bloc.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}
