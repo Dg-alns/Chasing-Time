@@ -1,0 +1,41 @@
+{
+  "artefact": [
+    {
+      "name": "shield",
+      "titre" : "Miroir de Qin",
+      "description": "Piece remarquable de la dynastie Qin ces miroirs sont souvent\ndecores avec des motifs complexes et symboliques, representant\nparfois des scenes de la vie quotidienne ou des divinites.\nIls etaient souvent utilises a des fins rituelles, mais\negalement comme des objets decoratifs. Ces miroirs peuvent\noffrir un apercu precieux de l'artisanat et de la culture de\ncette epoque ancienne."
+    },{
+      "name": "piece",
+      "titre" : "Pieces dynastie Qin",
+      "description": "Ces pieces sont de veritables tresors historiques, frappes\npendant la periode de la dynastie Qin. Elles etaient souvent faites\nen bronze et portaient des inscriptions ou des motifs\nsymboliques qui refletaient la richesse et la puissance\nde cette ancienne civilisation chinoise. Les pieces\nde monnaie de la dynastie Qin sont des artefacts precieux\nqui nous offrent un apercu fascinant de\nl'economie et de la culture de cette periode de l'histoire chinoise."
+    },{
+      "name": "statue",
+      "titre" : "Statuette en Jade de lion",
+      "description": "Ces pieces sont des exemples exquis de l'artisanat de la\ndynastie Qin, taillees dans du jade, une pierre precieuse tres prisee\ndans la culture chinoise. Les lions en jade etaient\nsouvent sculptes avec une grande attention aux details,\ncapturant la force et la majeste de ces creatures\nmythiques. Ils etaient egalement consideres comme\ndes symboles de pouvoir et de protection, et\netaient parfois places dans les tombes des nobles\net des dignitaires pour les accompagner dans l'au-dela."
+    },{
+      "name": "anneau",
+      "titre" : "Anneau dynastie Qin",
+      "description": "Temoignant de l'ingeniosite et de l'artisanat\nraffine de cette epoque et generalement fabriques en bronze\nou en jade, ces anneaux etaient souvent ornes de motifs\ncomplexes et symboliques, representant parfois des animaux,\ndes motifs geometriques ou des inscriptions.\nIls etaient portes non seulement comme des bijoux,\nmais aussi comme des symboles de statut social et\nde pouvoir. Certains anneaux de la dynastie Qin etaient\negalement utilises a des fins rituelles ou\nceremonielles, ajoutant une dimension spirituelle a leur\nimportance."
+    },{
+      "name": "epee",
+      "titre" : "Epee mongol",
+      "description": "Ces epees sont des symboles puissants de la force\net de la brutalite de l'epoque des invasions mongoles en Chine.\nFabriquees avec une grande habilete par les forgerons\nmongols, ces epees etaient souvent redoutables sur les\nchamps de bataille, avec leurs lames tranchantes et leurs\nmotifs decoratifs distinctifs. Elles etaient\nutilisees par les guerriers mongols pour conquerir de\nvastes territoires et etablir leur domination sur\nla Chine et au-dela. Les epees mongoles de cette epoque\nsont donc a la fois des armes redoutables\net des temoins de l'histoire tumultueuse de cette periode\nde conflit et de conquete."
+    },{
+      "name": "banniere",
+      "titre" : "Banniere Tug",
+      "description": "Les bannieres tengristes sont des drapeaux en tissu\nornes de motifs symboliques, avec\nune queue de cheval attachee a leur sommet. Les\nbannieres de paix ont une queue de cheval blanche, tandis\nque celles de guerre ont une queue de cheval noire.\nElles representent les esprits protecteurs (süld) et\nsont utilisees lors de ceremonies rituelles et\nmilitaires, jouant un rôle crucial dans la spiritualite\net la culture mongole."
+    },{
+      "name": "talisman",
+      "titre" : "Talisman chinois",
+      "description": "Les talismans chinois sont des objets ou des ecrits\ncharges de significations symboliques\net censes porter chance, proteger contre\nle malheur ou apporter des benedictions. Ils peuvent\nprendre diverses formes, telles que des amulettes,\ndes sculptures ou des inscriptions sur papier. Les talismans\nsont souvent associes a des pratiques religieuses\nou astrologiques et sont utilises pour repousser les\ninfluences nefastes, attirer la chance et renforcer\nle bien-etre selon les croyances traditionnelles\nchinoises."
+    },{
+      "name": "billets",
+      "titre" : "Billets",
+      "description": "Les billets de la Republique de Chine des annees\n1940 etaient des pieces de monnaie en\ncirculation pendant une periode tumultueuse\nde l'histoire chinoise, marquee par la guerre\nsino-japonaise et la guerre civile entre le Parti nationaliste\net le Parti communiste. Ces billets etaient disponibles\ndans une gamme de valeurs nominales et presentaient\ndes motifs varies, allant des paysages aux portraits\nde personnalites historiques. En raison des troubles\npolitiques et de la guerre, plusieurs emissions de\nbillets ont ete produites avec differents designs\net caracteristiques de securite. Aujourd'hui, ces\nbillets sont recherches par les collectionneurs\npour leur importance historique et leur esthetique\ndistinctive."
+    },{
+      "name": "statuette",
+      "titre" : "Statuette Mao",
+      "description": "Les statuettes de Mao Zedong sont des figurines\nrepresentant le dirigeant communiste\nchinois Mao Zedong, qui a dirige la Republique\npopulaire de Chine de 1949 jusqu'a sa mort en 1976.\nCes statuettes peuvent varier en taille, en materiau\net en style, mais elles ont generalement en commun la\nrepresentation de Mao dans des poses emblematiques,\nsouvent avec des vetements traditionnels chinois ou\nun uniforme militaire. Ces statuettes etaient tres\nrepandues pendant la Revolution culturelle en Chine, et\nelles sont souvent considerees comme des symboles de\npropagande politique. Aujourd'hui, elles sont\negalement collectionnees comme des objets historiques\net culturels temoignant d'une epoque revolue de\nl'histoire chinoise."
+    }
+  ]
+}
