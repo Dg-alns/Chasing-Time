@@ -12,4 +12,5 @@ Le saut est linéaire et nous n'avons pas pu lui mettre une vrai gravité :
 ConstanteDeGravité * X² + Vitesse * X
 
 ConstanteDeGravité = -9.81 ==> (en positif car y est inversé)
+
 Vitesse = Vitesse de déplacement du joueur
